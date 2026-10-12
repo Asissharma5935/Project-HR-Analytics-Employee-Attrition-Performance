@@ -1,5 +1,7 @@
 # HR Analytics: Employee Attrition & Performance
 
+![Power BI](https://img.shields.io/badge/Tool-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![HR Analytics](https://img.shields.io/badge/Focus-HR_Analytics-5A4FCF?style=for-the-badge)
+
 An employee workforce analytics project built around **Power BI** and HR data. It explores employee attrition, satisfaction, demographics, compensation, overtime, and tenure.
 
 ## Repository Structure
